@@ -22,4 +22,5 @@ python3 src/app.py
 ```
 
 3. Apri il browser all'indirizzo interattivo per testare l'AI:
-👉 `http://127.0.0`
+👉 👉 http://localhost:8080/docs
+
